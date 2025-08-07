@@ -1,0 +1,12 @@
+name: BdRole
+version: 1.0.0
+main: com.KnaZISY.BdRole
+api-version: 1.21
+authors: [KnaZISY]
+description: Плагин для отображения информации о ролях на сервере
+folia-supported: true
+
+commands:
+  role:
+    description: Показать информацию о ролях на сервере
+    usage: /role [роль] 
